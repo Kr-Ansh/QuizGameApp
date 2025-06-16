@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191828727845",
+    "project_id": "quizgame-12871",
+    "storage_bucket": "quizgame-12871.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191828727845:android:28689c129af803aa0807cc",
+        "android_client_info": {
+          "package_name": "com.irons.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191828727845-p9l0jab8tvgb7jogp1cqiobu8h2e0e5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irons.quizgame",
+            "certificate_hash": "0918ca076f565820a6dbc93565d5f37249e25037"
+          }
+        },
+        {
+          "client_id": "191828727845-np4r9r99abk0bn4u0138gdhu88626h4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEUTOOz8H2vTHuUCUFDbzWBIt-oM2hLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191828727845-np4r9r99abk0bn4u0138gdhu88626h4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
